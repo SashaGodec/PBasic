@@ -1,0 +1,10 @@
+'{$STAMP BS2}
+'{$PBASIC 2.5}
+
+DEBUG "Hello there!", CR
+
+DEBUG "What is 1+3+5?"
+DEBUG CR, "The answer is: "
+DEBUG DEC 1+3+5
+
+END
